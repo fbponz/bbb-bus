@@ -1,13 +1,15 @@
-# bbb-bus
+# BeagleBoneBlack-bus
 Beaglebone Black, Gpios, modBus, zigbee
 
-En este proyecto puse en practica la técnica cross-compiling, para desarrollo en sistemas embebidos. Enviando el ejecutable mediante un script sobre [SCP](https://es.wikipedia.org/wiki/Secure_Copy).
+This repository contains a different kind of files, where I tried to control Inputs and Outputs of BeableBoneBlack Board, And Two examples of use different buses like Modbus more Focuses and used in industrial envoirement and zigbee an wireless standard [IEEE 802.15.4].
 
--**Gpio** -> pruebas de control sobre las entradas/ salidas de la beaglebone black.
+In this project i used the cross-compiling thecnic, to develop it. & Sending the compiled code using [SCP](https://es.wikipedia.org/wiki/Secure_Copy).
 
--**Modbus** -> Test comunicación mediante la utilizacion del bus Modbus(Entorno industrial).
+-**Gpio** -> Test to control the inputs and output of beaglebone black.
 
--**Zigbee** -> Test comunicación mediante la utilizacion del bus Zigbee.
+-**Modbus** -> Test comunication throught the use of Modbus bus(Most used in Industrial envoirement).
+
+-**Zigbee** -> Test comunication throught the use of Zigbee bus.
 
 Kind Regards, Fbponz.
 

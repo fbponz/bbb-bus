@@ -8,3 +8,7 @@ En este proyecto puse en practica la técnica cross-compiling, para desarrollo e
 -**Modbus** -> Test comunicación mediante la utilizacion del bus Modbus(Entorno industrial).
 
 -**Zigbee** -> Test comunicación mediante la utilizacion del bus Zigbee.
+
+Kind Regards, Fbponz.
+
+**Contact:** e-Mail: fbponz@gmail.com
